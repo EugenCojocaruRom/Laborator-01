@@ -71,6 +71,4 @@ You can rename or reorganize these classes as needed.
 If you want to compile and run from the terminal:
 
 1. Navigate to the src directory:
-   ```bash
-   cd src
-```
+   ```bash cd src
